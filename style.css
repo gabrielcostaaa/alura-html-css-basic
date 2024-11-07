@@ -1,0 +1,33 @@
+body{
+    padding: 15px;
+    background-color: #000 ;
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    color: #F6F6F6
+  }
+  
+span {
+    color: #22D4FD;
+  }
+
+a {
+    background-color: #22D4FD;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #000;
+}
+
+h1 {
+    font-family: "Krona One";
+}
+
+.principal{
+    padding: 50px;
+    display: flex;
+}
+
+.buttons {
+
+}
